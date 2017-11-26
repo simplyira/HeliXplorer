@@ -4,4 +4,10 @@
    <FileRef
       location = "container:HeliXplorer/HeliXplorer.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:HeliXplorer/HeliXplorer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
 </Workspace>

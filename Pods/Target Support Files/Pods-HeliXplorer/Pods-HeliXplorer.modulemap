@@ -1,0 +1,6 @@
+framework module Pods_HeliXplorer {
+  umbrella header "Pods-HeliXplorer-umbrella.h"
+
+  export *
+  module * { export * }
+}
